@@ -14,7 +14,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=donguri2157&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/donguri2157/donguri2157/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/donguri2157/donguri2157/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/donguri2157/donguri2157/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://activity-graph.herokuapp.com/graph?username=donguri2157&theme=github)](https://activity-graph.herokuapp.com/graph?username=donguri2157&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=donguri2157&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=donguri2157&theme=dark)
